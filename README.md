@@ -6,7 +6,7 @@ This is a collection of 5e homebrew monsters created for the Halloween Zero-to-T
 
 ### Full Text
 
-- [Halloween Zero-to-Thirty Challenge Rating Challenge](030crc.md)
+- [Halloween Zero-to-Thirty Challenge Rating Challenge](main.md)
 
 ### Magic Items
 
@@ -46,8 +46,8 @@ This is a collection of 5e homebrew monsters created for the Halloween Zero-to-T
 - Animated Pair of Boots (Challenge ½)
 - Animated Pair of Gloves (Challenge 1)
 - Soul Warden (Challenge 20)
-- [Swarm of Trickered Treats](030crc.md#swarm-of-trickered-treats) (Challenge ¼)
-- [Trickered Treat](030crc.md#trickered-treat) (Challenge 0)
+- [Swarm of Trickered Treats](main.md#swarm-of-trickered-treats) (Challenge ¼)
+- [Trickered Treat](main.md#trickered-treat) (Challenge 0)
 
 #### Dragons
 
@@ -102,7 +102,7 @@ This is a collection of 5e homebrew monsters created for the Halloween Zero-to-T
 
 #### Undead
 
-- Avatar of Debt (Challenge Special)
+- [Avatar of Debt](main.md#avatar-of-debt) (Challenge 1+)
 - Lichmare (Challenge 14)
 
 ## Credits
