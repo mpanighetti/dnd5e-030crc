@@ -75,7 +75,7 @@ This is a collection of 5e homebrew monsters created for the Halloween Zero-to-T
 #### Humanoids
 
 - Galos the Clothier (Challenge 11)
-- Werechimp (Challenge 2)
+- [Werechimp](main.md#werechimp) (Challenge 2)
 
 #### Monstrosities
 
