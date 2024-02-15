@@ -156,7 +156,7 @@ _**Taxes.**_ The avatar sweeps its spectral scythe through a creature within 5 f
 
 The tax is collected even if the creature's wealth is not under its current physical possession; the coins will be removed from any chest, bank, loan to another creature, extradimensional space, or any other location or plane, as long as the wealth exists as physical coinage.
 
-## #030crc: October 3rd
+## October 3rd (Challenge 2)
 
 Prompt: **Misunderstood Monster**
 
