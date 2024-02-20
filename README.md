@@ -6,7 +6,7 @@ This is a collection of 5e homebrew monsters created for the Halloween Zero-to-T
 
 ### Full Text
 
-- [Halloween Zero-to-Thirty Challenge Rating Challenge](main.md)
+[Halloween Zero-to-Thirty Challenge Rating Challenge](main.md)
 
 ### Magic Items
 
@@ -106,7 +106,7 @@ This is a collection of 5e homebrew monsters created for the Halloween Zero-to-T
 - Lichmare (Challenge 14)
 
 ## Credits
-  
+
 ### Writing and Gameplay
 
 [Mario Panighetti](https://mario.panighetti.net)
