@@ -83,12 +83,12 @@ This is a collection of 5e homebrew monsters created for the Halloween Zero-to-T
 - Dire Drop Bear (Challenge 10)
 - The King of Crabs (Challenge 28)
 - Leviathan Beetle (Challenge 21)
-- Murexian Beholder (Challenge 13)
-- Murexian Giant Boar (Challenge 2)
-- Murexian Hellwasp (Challenge 5)
-- Murexian Squirrel (Challenge 0)
-- Murexian Twig Blight (Challenge ⅛)
-- Murexian Tyrannosaurus rex (Challenge 10)
+- [Murexian Beholder](main.md#murexian-beholder) (Challenge 13)
+- [Murexian Giant Boar](main.md#murexian-giant-boar) (Challenge 2)
+- [Murexian Hellwasp](main.md#murexian-hellwasp) (Challenge 5)
+- [Murexian Squirrel](main.md#murexian-squirrel) (Challenge 0)
+- [Murexian Twig Blight](main.md#murexian-twig-blight) (Challenge ⅛)
+- [Murexian Tyrannosaurus rex](main.md#murexian-tyrannosaurus-rex) (Challenge 10)
 
 #### Oozes
 
