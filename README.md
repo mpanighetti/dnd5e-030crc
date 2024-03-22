@@ -66,7 +66,7 @@ This is a collection of 5e homebrew monsters created for the Halloween Zero-to-T
 - Barista Dryad (Challenge 8)
 - Passenger Sprite (Challenge ½)
 - Passenger Sprite Cloud (Challenge 16)
-- Phygius (Challenge 25)
+- [Phygius](main.md#phygius) (Challenge 25)
 
 #### Fiends
 
