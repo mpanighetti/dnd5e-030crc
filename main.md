@@ -19,7 +19,7 @@ A creation of hags tired of Feywild children demanding sweets at all hours of th
 
 _**Constructed Nature.**_ Trickered treats do not require air, food, drink, or sleep.
 
-_**Sugar Rush.**_ Even though trickered treats are toxic to consume, they can still confer useful benefits to anyone who can stomach them. A Small or larger creature may swallow a grappled, restrained, or incapacitated trickered treat. Doing so instantly destroys the treat, and the creature must make a DC 15 Constitution saving throw. On a failed save, the creature is poisoned for 1 hour, and cannot regain hit points while poisoned in this manner. On a successful save, the creature gains the effects of the _haste_ spell for 1 minute (no concentration required).
+_**Sugar Rush.**_ Even though trickered treats are toxic to consume, they can still confer useful benefits to anyone who can stomach them. A Small or larger creature may swallow a grappled, restrained, or incapacitated trickered treat. Doing so instantly destroys the treat, and the creature must make a DC 15 Constitution Saving Throw. On a failed save, the creature is poisoned for 1 hour, and cannot regain hit points while poisoned in this manner. On a successful save, the creature gains the effects of the _haste_ spell for 1 minute (no Concentration required).
 
 <figure>
   <img src="https://github.com/mpanighetti/dnd5e-monsters/raw/main/constructs/trickered-treat-bowl-mario-panighetti.png" alt="Drawing of trickered treats, depicting a green glass bowl with Tide Pods wrapped like candies." />
@@ -45,7 +45,7 @@ _Tiny construct, same alignment as its creator_
 
 #### Special Traits
 
-_**Antimagic Susceptibility.**_ The trickered treat is incapacitated while in the area of an _antimagic field_. If targeted by _dispel magic_, the treat must succeed on a Constitution saving throw against the caster’s spell save DC or fall unconscious for 1 minute.
+_**Antimagic Susceptibility.**_ The trickered treat is incapacitated while in the area of an _antimagic field_. If targeted by _dispel magic_, the treat must succeed on a Constitution Saving Throw against the caster's Spell Save DC or fall unconscious for 1 minute.
 
 _**False Appearance.**_ While the trickered treat remains motionless and isn't flying, it is indistinguishable from a normal candy.
 
@@ -53,7 +53,7 @@ _**Fun Size.**_ The trickered treat can occupy another creature's space and vice
 
 #### Actions
 
-_**Cavity.**_ _Melee Weapon Attack:_ +3 to hit, reach 0 ft., one target in the trickered treat's space. _Hit:_ 1 bludgeoning damage, and if the target is a creature that has teeth, it must succeed on a DC 11 Constitution saving throw or take 2 (1d4) poison damage.
+_**Cavity.**_ _Melee Weapon Attack:_ +3 to hit, reach 0 ft., one target in the trickered treat's space. _Hit:_ 1 bludgeoning damage, and if the target is a creature that has teeth, it must succeed on a DC 11 Constitution Saving Throw or take 2 (1d4) poison damage.
 
 ### [Swarm of Trickered Treats](https://github.com/mpanighetti/dnd5e-monsters/blob/main/constructs/trickered-treat.md#swarm-of-trickered-treats)
 
@@ -81,7 +81,7 @@ _Medium swarm of Tiny constructs, same alignment as its creator_
 
 #### Special Traits
 
-_**Antimagic Susceptibility.**_ The swarm is incapacitated while in the area of an _antimagic field_. If targeted by _dispel magic_, the swarm must succeed on a Constitution saving throw against the caster’s spell save DC or fall unconscious for 1 minute.
+_**Antimagic Susceptibility.**_ The swarm is incapacitated while in the area of an _antimagic field_. If targeted by _dispel magic_, the swarm must succeed on a Constitution Saving Throw against the caster's Spell Save DC or fall unconscious for 1 minute.
 
 _**False Appearance.**_ While the swarm remains motionless and isn't flying, it is indistinguishable from a normal pile of candy.
 
@@ -89,7 +89,7 @@ _**Swarm.**_ The swarm can occupy another creature's space and vice versa, and t
 
 #### Actions
 
-_**Cavities.**_ _Melee Weapon Attack:_ +4 to hit, reach 0 ft., one target in the swarm's space. _Hit:_ 5 (2d4) bludgeoning damage, or 2 (1d4) bludgeoning damage if the swarm has half of its hit points or fewer. If the target is a creature that has teeth and was hit by this attack, it must succeed on a DC 12 Constitution saving throw or take 2 (1d4) poison damage. The target has disadvantage on this saving throw if it has previously taken poison damage from a trickered treat in the last day.
+_**Cavities.**_ _Melee Weapon Attack:_ +4 to hit, reach 0 ft., one target in the swarm's space. _Hit:_ 5 (2d4) bludgeoning damage, or 2 (1d4) bludgeoning damage if the swarm has half of its hit points or fewer. If the target is a creature that has teeth and was hit by this attack, it must succeed on a DC 12 Constitution Saving Throw or take 2 (1d4) poison damage. The target has disadvantage on this Saving Throw if it has previously taken poison damage from a trickered treat in the last day.
 
 # October 2nd (Challenge 1)
 
@@ -170,7 +170,7 @@ Asinius Avitus Scipio, self-proclaimed first-hand expert on this subject, has pu
 
 _**Characters as Werechimps.**_ The _Monster Manual_ has rules for characters afflicted with lycanthropy. The following text applies to werechimp characters specifically:
 
-A character cursed with werechimp lycanthropy gains a Strength of 16 if their score isn’t already higher. Attack and damage rolls for the werechimp’s bite are based on whichever is higher of the character’s Strength and Dexterity.
+A character cursed with werechimp lycanthropy gains a Strength of 16 if their score isn't already higher. Attack and damage rolls for the werechimp's bite are based on whichever is higher of the character's Strength and Dexterity.
 
 <figure>
   <img src="https://github.com/mpanighetti/dnd5e-monsters/raw/main/humanoids/werechimp-reddrawnart.jpeg" alt="Drawing of the werechimp, depicting a bipedal creature with the general build of a human, but with chimpanzee head, empty eyes, and elongated fur-covered arms." />
@@ -202,13 +202,13 @@ _**Pack Tactics.**_ The werechimp has advantage on attack rolls against a creatu
 
 _**Multiattack (Human or Hybrid Form Only).**_ The werechimp makes up to two attacks, only one of which can be a bite.
 
-_**Bite (Chimp or Hybrid Form Only).**_ _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 5 (1d4 + 3) piercing damage. If the target is a humanoid, it must succeed on a DC 12 Constitution saving throw or be cursed with werechimp lycanthropy.
+_**Bite (Chimp or Hybrid Form Only).**_ _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 5 (1d4 + 3) piercing damage. If the target is a humanoid, it must succeed on a DC 12 Constitution Saving Throw or be cursed with werechimp lycanthropy.
 
 _**Fist.**_ _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 6 (1d6 + 3) bludgeoning damage.
 
 _**Stone Dagger.**_ _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 8 (2d4 + 3) piercing damage.
 
-_**Change Shape.**_ The werechimp polymorphs into a chimp–humanoid hybrid or into a chimp, or back into its true form, which is humanoid. Its statistics, other than its speed, are the same in each form. Any equipment it is wearing or carrying isn’t transformed. It reverts to its humanoid form if it dies.
+_**Change Shape.**_ The werechimp polymorphs into a chimp–humanoid hybrid or into a chimp, or back into its true form, which is humanoid. Its statistics, other than its speed, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its humanoid form if it dies.
 
 # October 14th (Challenge 13)
 
@@ -234,15 +234,15 @@ Murexian creatures have varying traits due to the severity of corruption caused 
 
 _**Murexian Immunity.**_ The creature is immune to poison damage and the poisoned condition, including those caused by murexian poisons.
 
-_**Poisonous Skin.**_ If another creature comes into direct contact with a murexian creature's body, it must succeed on a DC 9 Constitution saving throw or become poisoned for 1 minute. A poisoned creature no longer in direct contact with the murexian creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+_**Poisonous Skin.**_ If another creature comes into direct contact with a murexian creature's body, it must succeed on a DC 9 Constitution Saving Throw or become poisoned for 1 minute. A poisoned creature no longer in direct contact with the murexian creature can repeat the Saving Throw at the end of each of its turns, ending the effect on itself on a success.
 
-Additionally, if a creature eats a murexian plant or animal, it must succeed on a DC 12 Constitution saving throw or become poisoned for 1 hour.
+Additionally, if a creature eats a murexian plant or animal, it must succeed on a DC 12 Constitution Saving Throw or become poisoned for 1 hour.
 
 #### Severe Corruption (Challenge 2-5)
 
-_**Enhanced Poisonous Skin.**_ The DC on the Poisonous Skin trait's saving throw is now increased to the recommended level for the creature's challenge rating (after murexian corruption modifications). For example, a creature with challenge 2 has a recommended save DC of 13, and a creature with challenge 8 increases the save DC to 16. See the Dungeon Master's Workshop chapter in the _Dungeon Master's Guide_ for reference.
+_**Enhanced Poisonous Skin.**_ The DC on the Poisonous Skin trait's Saving Throw is now increased to the recommended level for the creature's challenge rating (after murexian corruption modifications). For example, a creature with challenge 2 has a recommended save DC of 13, and a creature with challenge 8 increases the save DC to 16. See the Dungeon Master's Workshop chapter in the _Dungeon Master's Guide_ for reference.
 
-Additionally, a creature that fails this saving throw is paralyzed until the end of its next turn.
+Additionally, a creature that fails this Saving Throw is paralyzed until the end of its next turn.
 
 _**Murexian Poison.**_ All attacks and traits of a murexian creature that deal poison damage or cause the poisoned condition treat poison immunity as poison resistance and ignores a target's normal poison resistance, unless the target has specific resistances or immunities to murexian poisons. Targets with poison immunity or murexian poison resistance have advantage on saves against murexian poisons, and targets with murexian poison immunity automatically succeed on such saves.
 
@@ -252,7 +252,7 @@ _**Toxic Injection.**_ The sludge coursing through the veins and fangs of murexi
 
 _**Toxic Infusion.**_ The Toxic Injection trait deals an additional 3d6 murexian poison damage on a hit with attacks using a natural weapon.
 
-_**Venom Surge.**_ A creature that is already poisoned by murex and fails the Poisonous Skin saving throw instead suffers one level of exhaustion. A creature cannot have more than one level of exhaustion at a time caused by the Venom Surge trait from the same murexian creature.
+_**Venom Surge.**_ A creature that is already poisoned by murex and fails the Poisonous Skin Saving Throw instead suffers one level of exhaustion. A creature cannot have more than one level of exhaustion at a time caused by the Venom Surge trait from the same murexian creature.
 
 ## Example Murexian Creatures
 
@@ -287,9 +287,9 @@ _Tiny beast/monstrosity, unaligned_
 
 _**Keen Smell.**_ The squirrel has advantage on Wisdom (Perception) checks that rely on smell.
 
-_**Pack Tactics.**_ The squirrel has advantage on attack rolls against a creature if at least one of the squirrel’s allies is within 5 feet of the creature and isn’t incapacitated.
+_**Pack Tactics.**_ The squirrel has advantage on attack rolls against a creature if at least one of the squirrel's allies is within 5 feet of the creature and isn't incapacitated.
 
-_**Poisonous Skin.**_ If another creature comes into direct contact with the squirrel's body (including as part of the squirrel's Bite attack), it must succeed on a DC 9 Constitution saving throw or become poisoned with murex for 1 minute. A poisoned creature no longer in direct contact with the squirrel can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+_**Poisonous Skin.**_ If another creature comes into direct contact with the squirrel's body (including as part of the squirrel's Bite attack), it must succeed on a DC 9 Constitution Saving Throw or become poisoned with murex for 1 minute. A poisoned creature no longer in direct contact with the squirrel can repeat the Saving Throw at the end of each of its turns, ending the effect on itself on a success.
 
 #### Actions
 
@@ -320,7 +320,7 @@ _Small plant/monstrosity, neutral evil_
 
 _**False Appearance.**_ While the blight remains motionless, it is indistinguishable from a dead shrub.
 
-_**Poisonous Skin.**_ If another creature comes into direct contact with the twig blight's body (including as part of the twig blight's Claws attack), it must succeed on a DC 9 Constitution saving throw or become poisoned with murex for 1 minute. A poisoned creature no longer in direct contact with the squirrel can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+_**Poisonous Skin.**_ If another creature comes into direct contact with the twig blight's body (including as part of the twig blight's Claws attack), it must succeed on a DC 9 Constitution Saving Throw or become poisoned with murex for 1 minute. A poisoned creature no longer in direct contact with the squirrel can repeat the Saving Throw at the end of each of its turns, ending the effect on itself on a success.
 
 #### Actions
 
@@ -349,11 +349,11 @@ _Large beast/monstrosity, unaligned_
 
 #### Special Traits
 
-_**Charge.**_ If the boar moves at least 20 feet straight toward a target and then hits it with a tusk attack on the same turn, the target takes an extra 7 (2d6) slashing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
+_**Charge.**_ If the boar moves at least 20 feet straight toward a target and then hits it with a tusk attack on the same turn, the target takes an extra 7 (2d6) slashing damage. If the target is a creature, it must succeed on a DC 13 Strength Saving Throw or be knocked prone.
 
 _**Murexian Poison.**_ All murexian poison damage and poisoned conditions dealt by the boar treat poison immunity as poison resistance and ignore a target's normal poison resistance, unless the target has specific resistance or immunity to murexian poisons. Targets with poison immunity or murexian poison resistance have advantage on saves against murexian poisons, and targets with murexian poison immunity automatically succeed on such saves.
 
-_**Enhanced Poisonous Skin.**_ If another creature comes into direct contact with the boar's body (including as part of the boar's Tusk attack), it must succeed on a DC 13 Constitution saving throw or become poisoned with murex for 1 minute and paralyzed until the end of its next turn. A poisoned creature no longer in direct contact with the boar can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+_**Enhanced Poisonous Skin.**_ If another creature comes into direct contact with the boar's body (including as part of the boar's Tusk attack), it must succeed on a DC 13 Constitution Saving Throw or become poisoned with murex for 1 minute and paralyzed until the end of its next turn. A poisoned creature no longer in direct contact with the boar can repeat the Saving Throw at the end of each of its turns, ending the effect on itself on a success.
 
 _**Relentless (Recharges after a Short or Long Rest).**_ If the boar takes 10 damage or less that would reduce it to 0 hit points, it is reduced to 1 hit point instead.
 
@@ -386,9 +386,9 @@ _Huge beast/monstrosity, unaligned_
 
 _**Murexian Poison.**_ All murexian poison damage and poisoned conditions dealt by T. rex treat poison immunity as poison resistance and ignore a target's normal poison resistance, unless the target has specific resistance or immunity to murexian poisons. Targets with poison immunity or murexian poison resistance have advantage on saves against murexian poisons, and targets with murexian poison immunity automatically succeed on such saves.
 
-_**Venom Surge.**_ If another creature comes into direct contact with T. rex's body (including as part of T. rex's Bite or Tail attack), it must succeed on a DC 16 Constitution saving throw or become poisoned with murex for 1 minute and paralyzed until the end of its next turn. A poisoned creature no longer in direct contact with T. rex can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+_**Venom Surge.**_ If another creature comes into direct contact with T. rex's body (including as part of T. rex's Bite or Tail attack), it must succeed on a DC 16 Constitution Saving Throw or become poisoned with murex for 1 minute and paralyzed until the end of its next turn. A poisoned creature no longer in direct contact with T. rex can repeat the Saving Throw at the end of each of its turns, ending the effect on itself on a success.
 
-Additionally, a creature that is already poisoned by murex and fails this saving throw instead suffers one level of exhaustion. A creature cannot have more than one level of exhaustion at a time caused by the Venom Surge trait from the same murexian creature.
+Additionally, a creature that is already poisoned by murex and fails this Saving Throw instead suffers one level of exhaustion. A creature cannot have more than one level of exhaustion at a time caused by the Venom Surge trait from the same murexian creature.
 
 #### Actions
 
@@ -427,11 +427,11 @@ _Large fiend/monstrosity, lawful evil_
 
 #### Special Traits
 
-_**Magic Weapons.**_ The hellwasp’s weapon attacks are magical.
+_**Magic Weapons.**_ The hellwasp's weapon attacks are magical.
 
 _**Murexian Poison.**_ All murexian poison damage and poisoned conditions dealt by the hellwasp treat poison immunity as poison resistance and ignore a target's normal poison resistance, unless the target has specific resistance or immunity to murexian poisons. Targets with poison immunity or murexian poison resistance have advantage on saves against murexian poisons, and targets with murexian poison immunity automatically succeed on such saves.
 
-_**Enhanced Poisonous Skin.**_ If another creature comes into direct contact with the hellwasp's body (including as part of the hellwasp's Sting or Sword Talons attacks), it must succeed on a DC 15 Constitution saving throw or become poisoned with murex for 1 minute and paralyzed until the end of its next turn. A poisoned creature no longer in direct contact with the hellwasp can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+_**Enhanced Poisonous Skin.**_ If another creature comes into direct contact with the hellwasp's body (including as part of the hellwasp's Sting or Sword Talons attacks), it must succeed on a DC 15 Constitution Saving Throw or become poisoned with murex for 1 minute and paralyzed until the end of its next turn. A poisoned creature no longer in direct contact with the hellwasp can repeat the Saving Throw at the end of each of its turns, ending the effect on itself on a success.
 
 #### Actions
 
@@ -482,9 +482,9 @@ _**Antimagic Cone.**_ The beholder's central eye creates an area of antimagic, a
 
 _**Murexian Poison.**_ All murexian poison damage and poisoned conditions dealt by the beholder treat poison immunity as poison resistance and ignore a target's normal poison resistance, unless the target has specific resistance or immunity to murexian poisons. Targets with poison immunity or murexian poison resistance have advantage on saves against murexian poisons, and targets with murexian poison immunity automatically succeed on such saves.
 
-_**Venom Surge.**_ If another creature comes into direct contact with the beholder's body (including as part of the beholder's Bite attack), it must succeed on a DC 18 Constitution saving throw or become poisoned with murex for 1 minute and paralyzed until the end of its next turn. A poisoned creature no longer in direct contact with the beholder can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+_**Venom Surge.**_ If another creature comes into direct contact with the beholder's body (including as part of the beholder's Bite attack), it must succeed on a DC 18 Constitution Saving Throw or become poisoned with murex for 1 minute and paralyzed until the end of its next turn. A poisoned creature no longer in direct contact with the beholder can repeat the Saving Throw at the end of each of its turns, ending the effect on itself on a success.
 
-Additionally, a creature that is already poisoned by murex and fails this saving throw instead suffers one level of exhaustion. A creature cannot have more than one level of exhaustion at a time caused by the Venom Surge trait from the same murexian creature.
+Additionally, a creature that is already poisoned by murex and fails this Saving Throw instead suffers one level of exhaustion. A creature cannot have more than one level of exhaustion at a time caused by the Venom Surge trait from the same murexian creature.
 
 #### Actions
 
@@ -492,11 +492,11 @@ _**Bite.**_ _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 14
 
 _**Eye Rays.**_ The beholder shoots three of its magical eye rays at random (reroll duplicates), choosing one to three targets it can see within 120 feet of it. See the beholder stat block in the _Monster Manual_ for eye ray effects; the Enervation Ray is replaced with a Murexian Ray which behaves as follows:
 
-_Murexian Ray._ The targeted creature must make a DC 18 Constitution saving throw. On a failed save, the target takes 36 (8d8) murexian poison damage and is poisoned by murex as described in the Venom Surge trait. On a successful save, the ray damage is halved and the target is not poisoned by murex.
+_Murexian Ray._ The targeted creature must make a DC 18 Constitution Saving Throw. On a failed save, the target takes 36 (8d8) murexian poison damage and is poisoned by murex as described in the Venom Surge trait. On a successful save, the ray damage is halved and the target is not poisoned by murex.
 
 #### Legendary Actions
 
-The beholder can take 3 legendary actions, using the Eye Ray option below. It can take only one legendary action at a time and only at the end of another creature’s turn. The beholder regains spent legendary actions at the start of its turn.
+The beholder can take 3 legendary actions, using the Eye Ray option below. It can take only one legendary action at a time and only at the end of another creature's turn. The beholder regains spent legendary actions at the start of its turn.
 
 **Eye Ray.** The beholder uses one random eye ray.
 
@@ -549,7 +549,7 @@ _Large fey (archfey), chaotic neutral_
 
 #### Special Traits
 
-_**Innate Spellcasting.**_ Phygius' innate spellcasting ability is Charisma (spell save DC 24). It can innately cast the following spells, requiring no components:
+_**Innate Spellcasting.**_ Phygius' innate spellcasting ability is Charisma (Spell Save DC 24). It can innately cast the following spells, requiring no components:
 
 - At will: _dispel magic_, _druidcraft_, _faerie fire_
 - 3/day each: _bless_, _charm monster_, _conjure animals_, _greater invisibility_, _moonbeam_, _plant growth_, _spike growth_, _suggestion_, _transport via plants_
@@ -559,13 +559,13 @@ Spells under 5th level are cast at 5th level.
 
 _**Interplanar Nature.**_ While in the Ethereal Plane, the Feywild, or the Material Plane, Phygius is aware of the location and alignment of all creatures within 30 feet of Phygius' corresponding location on each plane. Additionally, Phygius is immune to _banishment_ or similar spells or effects when it is on any of these planes. If Phygius dies on any plane other than the Feywild, its body is destroyed but its essence travels back to the Feywild, and it is unable to take physical form or planeshift for a time.
 
-_**Legendary Resistance (3/Day).**_ If Phygius fails a saving throw, it can choose to succeed instead.
+_**Legendary Resistance (3/Day).**_ If Phygius fails a Saving Throw, it can choose to succeed instead.
 
-_**Limited Magic Immunity.**_ Unless it wishes to be affected, Phygius is immune to spells of 5th level or lower. It has advantage on saving throws against all other spells and magical effects.
+_**Limited Magic Immunity.**_ Unless it wishes to be affected, Phygius is immune to spells of 5th level or lower. It has advantage on Saving Throws against all other spells and magical effects.
 
 _**Magic Weapons.**_ Phygius' weapon attacks are magical.
 
-_**Regeneration.**_ Phygius regains 20 hit points at the start of its turn. If it takes necrotic damage, this trait doesn’t function at the start of its next turn. Phygius dies only if it starts its turn with 0 hit points and doesn’t regenerate.
+_**Regeneration.**_ Phygius regains 20 hit points at the start of its turn. If it takes necrotic damage, this trait doesn't function at the start of its next turn. Phygius dies only if it starts its turn with 0 hit points and doesn't regenerate.
 
 #### Actions
 
@@ -573,20 +573,20 @@ _**Multiattack.**_ Phygius makes up to two attacks, one with its horns and one w
 
 _**Horns.**_ _Melee Weapon Attack:_ +15 to hit, reach 10 ft., one target. _Hit:_ 40 (6d10 + 7) piercing damage plus 18 (4d8) force damage.
 
-_**Hooves.**_ _Melee Weapon Attack:_ +15 to hit, reach 10 ft., one target. _Hit:_ 34 (6d8 + 7) bludgeoning damage plus 14 (4d6) thunder damage, and if it is a creature, it must succeed on a DC 22 Strength saving throw or be knocked prone.
+_**Hooves.**_ _Melee Weapon Attack:_ +15 to hit, reach 10 ft., one target. _Hit:_ 34 (6d8 + 7) bludgeoning damage plus 14 (4d6) thunder damage, and if it is a creature, it must succeed on a DC 22 Strength Saving Throw or be knocked prone.
 
 #### Bonus Actions
 
-_**Fear Gaze.**_ Phygius stares at a creature within 30 feet of it and fills its mind with fear. The creature must make a DC 24 Wisdom saving throw. Unless the save succeeds, the creature is frightened until the start of its next turn. If a creature’s saving throw is successful, the creature is immune to Phygius’ Fear Aura for the next 24 hours.
+_**Fear Gaze.**_ Phygius stares at a creature within 30 feet of it and fills its mind with fear. The creature must make a DC 24 Wisdom Saving Throw. Unless the save succeeds, the creature is frightened until the start of its next turn. If a creature's Saving Throw is successful, the creature is immune to Phygius' Fear Aura for the next 24 hours.
 
-_**Teleport.**_ Phygius magically teleports, along with any equipment it is wearing or carrying and any number of creatures it targets within 30 feet, up to 120 feet to an unoccupied space it can see. Unwilling creatures must succeed on a DC 18 Wisdom saving throw or they are teleported along with Phygius.
+_**Teleport.**_ Phygius magically teleports, along with any equipment it is wearing or carrying and any number of creatures it targets within 30 feet, up to 120 feet to an unoccupied space it can see. Unwilling creatures must succeed on a DC 18 Wisdom Saving Throw or they are teleported along with Phygius.
 
 #### Legendary Actions
 
-Phygius can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. Phygius regains spent legendary actions at the start of its turn.
+Phygius can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Phygius regains spent legendary actions at the start of its turn.
 
 **Arcane Disruption.** Phygius casts _dispel magic_.
 
-**Shift (Costs 2 Actions).** Phygius magically planeshifts, along with any equipment it is wearing or carrying and any number of creatures it targets within 30 feet, to its corresponding location on the Ethereal Plane, the Feywild, or the Material Plane. Unwilling creatures must succeed on a DC 20 Wisdom saving throw or they are teleported along with Phygius. If a creature or object is present at the target location, it must succeed on a DC 23 Dexterity saving throw or take 13 (3d8) force damage and be knocked prone. Whether the creature or object succeeds or fails on the save, it is pushed to an unoccupied space of Phygius' choice within 10 feet.
+**Shift (Costs 2 Actions).** Phygius magically planeshifts, along with any equipment it is wearing or carrying and any number of creatures it targets within 30 feet, to its corresponding location on the Ethereal Plane, the Feywild, or the Material Plane. Unwilling creatures must succeed on a DC 20 Wisdom Saving Throw or they are teleported along with Phygius. If a creature or object is present at the target location, it must succeed on a DC 23 Dexterity Saving Throw or take 13 (3d8) force damage and be knocked prone. Whether the creature or object succeeds or fails on the save, it is pushed to an unoccupied space of Phygius' choice within 10 feet.
 
 **Teleport.** Phygius uses its Teleport action.
