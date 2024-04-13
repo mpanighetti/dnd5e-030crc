@@ -12,8 +12,8 @@ This is a collection of 5e homebrew monsters created for the Halloween Zero-to-T
 
 #### Weapons
 
-- Angel Blade (rare, requires attunement)
-- Blade of Grass (legendary, requires attunement)
+- Angel Blade (rare, requires Attunement)
+- Blade of Grass (legendary, requires Attunement)
 
 ### Monsters
 
