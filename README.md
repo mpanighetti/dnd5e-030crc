@@ -2,108 +2,44 @@
 
 This is a collection of 5e homebrew monsters created for the Halloween Zero-to-Thirty Challenge Rating Challenge (#030crc). Each day in October 2021 featured a monster (or collection of related monsters) of increasing challenge rating from CR0 to CR30, including lore, full monster stat blocks, and artwork.
 
-## Resources
+<figure>
+  <img src="artwork/030crc-prompt-list.png" alt="The Halloween Zero-to-Thirty Challenge Rating Challenge prompt list, featuring a black background and white text listing all 31 prompts (Pumpkin Spice, Undead, Kaiju, Fairytale, Accursed, Spoopy, Beast, Outer Space, Doppelgänger, Capitalism, Insects, Trick-or-Treat, Misunderstood Monster, The Deep, Prehistoric, Secretive, Ooze, B-Movie Monster, Expanse, Parasite, This is Not a Place of Honor, Chaos, Mythology, Supernatural, Mecha, Psychopomp, Forest, Abomination, Caves, Boss Monster, and End of the World), the #030crc hashtag, and social media accounts for the organizers: @mpanighetti on Twitter, Tumblr, and Instagram; @_invisible_goats_ on Instagram; @BadProbably on Twitter; and @ProbablyBadRPGIdeas on Tumblr." />
+  <figcaption>Halloween Zero-to-Thirty Challenge Rating Challenge prompt list</figcaption>
+</figure>
 
-### Full Text
+## Table of Contents
 
-[Halloween Zero-to-Thirty Challenge Rating Challenge](main.md)
-
-### Magic Items
-
-#### Weapons
-
-- Angel Blade (rare, requires Attunement)
-- Blade of Grass (legendary, requires Attunement)
-
-### Monsters
-
-#### Aberrations
-
-- Apep the Fallen (Challenge 30)
-- Bears Repeating (Challenge 24)
-- Echoes of a Failed World (Challenge 29)
-- False Shadow (Challenge 7)
-- Living Empty (Challenge 19)
-- Seaharvest Horror (Challenge 12)
-
-#### Beasts
-
-- Crabnado (Challenge 3)
-- Dallasaurus (Challenge 1)
-- Drop Bear (Challenge 3)
-- Giant Squid (Challenge 6)
-- Liodon (Challenge 6)
-- Mosasaurus (Challenge 15)
-- Platecarpus (Challenge 3)
-
-#### Celestials
-
-- Fallen Angel (Challenge 9)
-
-#### Constructs
-
-- Animated Corset (Challenge 1)
-- Animated Pair of Boots (Challenge ½)
-- Animated Pair of Gloves (Challenge 1)
-- Soul Warden (Challenge 20)
-- [Swarm of Trickered Treats](main.md#swarm-of-trickered-treats) (Challenge ¼)
-- [Trickered Treat](main.md#trickered-treat) (Challenge 0)
-
-#### Dragons
-
-- Adult Void Dragon (Challenge 16)
-- Ancient Void Dragon (Challenge 23)
-- Spelunkamander (Challenge 22)
-- Void Dragon Wyrmling (Challenge 2)
-- Young Void Dragon (Challenge 9)
-
-#### Elementals
-
-- Thunderbird (Challenge 26)
-
-#### Fey
-
-- Barista Dryad (Challenge 8)
-- Passenger Sprite (Challenge ½)
-- Passenger Sprite Cloud (Challenge 16)
-- [Phygius](main.md#phygius) (Challenge 25)
-
-#### Fiends
-
-- The Boss from Hell (Challenge 17)
-
-#### Humanoids
-
-- Galos the Clothier (Challenge 11)
-- [Werechimp](main.md#werechimp) (Challenge 2)
-
-#### Monstrosities
-
-- Cuckoo Mimic (Challenge 4)
-- Dire Drop Bear (Challenge 10)
-- The King of Crabs (Challenge 28)
-- Leviathan Beetle (Challenge 21)
-- [Murexian Beholder](main.md#murexian-beholder) (Challenge 13)
-- [Murexian Giant Boar](main.md#murexian-giant-boar) (Challenge 2)
-- [Murexian Hellwasp](main.md#murexian-hellwasp) (Challenge 5)
-- [Murexian Squirrel](main.md#murexian-squirrel) (Challenge 0)
-- [Murexian Twig Blight](main.md#murexian-twig-blight) (Challenge ⅛)
-- [Murexian Tyrannosaurus rex](main.md#murexian-tyrannosaurus-rex) (Challenge 10)
-
-#### Oozes
-
-- Gray Goo (Challenge 27)
-- Snot Hag (Challenge 5)
-
-#### Plants
-
-- Grass Warrior (Challenge 18)
-- Grinning Gourd (Challenge 3)
-
-#### Undead
-
-- [Avatar of Debt](main.md#avatar-of-debt) (Challenge 1+)
-- Lichmare (Challenge 14)
+- October 1st: [Trick-or-Treat](october-1-trick-or-treat.md)
+- October 2nd: [Capitalism](october-2-capitalism.md)
+- October 3rd: [Misunderstood Monster](october-3-misunderstood-monster.md)
+- October 4th: [Spoopy](october-4-spoopy.md)
+- October 5th: [Parasite](october-5-parasite.md)
+- October 6th: [Ooze](october-6-ooze.md)
+- October 7th: [The Deep](october-7-the-deep.md)
+- October 8th: [Psychopomp](october-8-psychopomp.md)
+- October 9th: [Pumpkin Spice](october-9-pumpkin-spice.md)
+- October 10th: [Supernatural](october-10-supernatural.md)
+- October 11th: [Beast](october-11-beast.md)
+- October 12th: [Accursed](october-12-accursed.md)
+- October 13th: [B-Movie Monster](october-13-b-movie-monster.md)
+- October 14th: [Forest](october-14-forest.md)
+- October 15th: [Undead](october-15-undead.md)
+- October 16th: [Prehistoric](october-16-prehistoric.md)
+- October 17th: [Fairytale](october-17-fairytale.md)
+- October 18th: [Boss Monster](october-18-boss-monster.md)
+- October 19th: [Doppelgänger](october-19-doppelganger.md)
+- October 20th: [Expanse](october-20-expanse.md)
+- October 21st: [Mecha](october-21-mecha.md)
+- October 22nd: [Insects](october-22-insects.md)
+- October 23rd: [Caves](october-23-caves.md)
+- October 24th: [Outer Space](october-24-outer-space.md)
+- October 25th: [Abomination](october-25-abomination.md)
+- October 26th: [Secretive](october-26-secretive.md)
+- October 27th: [Mythology](october-27-mythology.md)
+- October 28th: [End of the World](october-28-end-of-the-world.md)
+- October 29th: [Kaiju](october-29-kaiju.md)
+- October 30th: [This Is Not a Place of Honor](october-30-this-is-not-a-place-of-honor.md)
+- October 31st: [Chaos](october-31-chaos.md)
 
 ## Credits
 
