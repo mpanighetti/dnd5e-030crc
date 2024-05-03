@@ -25,7 +25,7 @@ _Small plant, unaligned_
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|16 (+3)||14(+2)|15 (+2)| 1 (-5)|12 (+1)| 1 (-5)|
+|16 (+3)|14 (+2)|15 (+2)| 1 (-5)|12 (+1)| 1 (-5)|
 
 - **Skills** Stealth +4
 - **Immunities** Deafened, Exhausted, Prone
