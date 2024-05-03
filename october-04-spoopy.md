@@ -12,7 +12,7 @@ A grinning gourd animated by a magic candle in this manner has no sentience but 
 
 <figure>
   <img src="https://github.com/mpanighetti/dnd5e-monsters/raw/main/plants/grinning-gourd-mario-panighetti.png" alt="Drawing of the grinning gourd, depicting three jack-o'-lanterns with runes around their tops and menacing expressions for carved faces, one of which is holding a knife in its vine." />
-  <figcaption>Grinning Gourd by [Mario Panighetti](https://mario.panighetti.net/)</figcaption>
+  <figcaption>Grinning Gourd by <a href="https://mario.panighetti.net/">Mario Panighetti</a></figcaption>
 </figure>
 
 ### Attributes
