@@ -40,6 +40,7 @@ This is a collection of 5e homebrew monsters created for the Halloween Zero-to-T
 - October 29th: [Kaiju](october-29-kaiju.md)
 - October 30th: [This Is Not a Place of Honor](october-30-this-is-not-a-place-of-honor.md)
 - October 31st: [Chaos](october-31-chaos.md)
+- [License](LICENSE.md)
 
 ## Credits
 
