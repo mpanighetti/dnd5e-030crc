@@ -16,6 +16,11 @@ Rumor eventually spread of a strange influence overtaking Bridgeport, and such r
 
 In death, Galos' corrupted soul was condemned to serve the devils in the Blood War, but even in this fiendish state, he continues to carry out his enthralling through his enchanted blood and his skill with tailoring.
 
+<figure>
+  <img src="artwork/galos-the-clothier-mario-panighetti.png" alt="Drawing of Galos the Clothier and several Animated Clothing monsters, depicting an elderly man wearing an old-fashioned brimmed hat and vest, holding his hands in the air like a conductor, while a shirt, shoes, and scarf float around him, all surrounded by dark energy auras." />
+  <figcaption>Galos the Clothier by <a href="https://mario.panighetti.net">Mario Panighetti</a></figcaption>
+</figure>
+
 #### Attributes
 
 _Medium humanoid (human), neutral evil_
