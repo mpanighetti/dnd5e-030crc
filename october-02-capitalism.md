@@ -61,3 +61,8 @@ _**Turning Immunity.**_ The avatar is immune to features that turn undead.
 _**Taxes.**_ The avatar sweeps their spectral scythe through a creature within 5 feet of them. Roll a number of d12s equal to half the summoner's level or challenge rating (round down, minimum 1). A number of random coins equal to the dice roll immediately disappears from the target's wealth and reappears in the avatar's pocket dimension, and the avatar regains a number of Hit Points equal to the number of coins they take.
 
 The tax is collected even if the creature's wealth is not under their current physical possession; the coins will be removed from any chest, bank, loan to another creature, extradimensional space, or any other location or plane, as long as the wealth exists as physical coinage.
+
+---
+
+| ⬅️ [October 1st: Trick-or-Treat](october-01-trick-or-treat.md) | [October 3rd: Misunderstood Monster](october-03-misunderstood-monster.md) ➡️ |
+|:-|-:|
