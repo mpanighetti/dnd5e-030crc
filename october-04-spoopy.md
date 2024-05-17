@@ -50,3 +50,8 @@ _**Constrict.**_ _Melee Weapon Attack:_ +5 to hit, reach 20 ft., one target. _Hi
 #### Bonus Actions
 
 _**Reel.**_ The grinning gourd reels in its vines to either move next to a constricted target without spending movement, or to move the constricted creature toward the gourd if the creature is smaller than the gourd or prone.
+
+---
+
+| ⬅️ [October 3rd: Misunderstood Monster](october-03-misunderstoof-monster.md) | [October 5th: Parasite](october-05-parasite.md) ➡️ |
+|:-|-:|
