@@ -64,3 +64,8 @@ _**Pseudopod.**_ _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit
 _**Bite.**_ _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 8 (1d8 + 4) piercing damage plus 4 (1d8) acid damage.
 
 _**Change Shape.**_ The mimic polymorphs into a humanoid of the same race of a random host, or back into its true form, which is amorphous but vaguely humanoid in shape. Its statistics are the same in each form. Any equipment it is wearing or carrying isn’t transformed. It reverts to its true form if it dies.
+
+---
+
+| ⬅️ [October 4th: Spoopy](october-04-spoopy.md) | [October 6th: Ooze](october-06-ooze.md) ➡️ |
+|:-|-:|
