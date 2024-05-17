@@ -81,3 +81,8 @@ _**Swarm.**_ The swarm can occupy another creature's space and vice versa, and t
 #### Actions
 
 _**Cavities.**_ _Melee Weapon Attack:_ +4 to hit, reach 0 ft., one target in the swarm's space. _Hit:_ 5 (2d4) Bludgeoning damage, or 2 (1d4) Bludgeoning damage if the swarm has half of its Hit Points or fewer. If the target is a creature that has teeth and was hit by this attack, they must succeed on a DC 12 Constitution Saving Throw or take 2 (1d4) Poison damage. The target has Disadvantage on this Saving Throw if they have previously taken Poison damage from a trickered treat in the last day.
+
+---
+
+| [October 2nd: Capitalism](october-02-capitalism.md) ➡️ |
+|-:|
