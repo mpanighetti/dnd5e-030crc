@@ -177,3 +177,8 @@ _**Multiattack.**_ The pair of gloves makes two Stop Hitting Yourself attacks ag
 _**Slip On.**_ _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one Medium or Small creature. _Hit:_ The pair of gloves don themselves on the creature's hands or appendages, replacing any current gloves. While the gloves are worn: any time the target attempts to make weapon attacks, interact with objects, or use somatic components for casting spells, it must first succeed on a contested Dexterity check against the gloves; and the gloves can't slip onto another creature. The target can attempt to doff the gloves as if escaping from a grapple (escape DC 14), or the gloves can doff themselves as a bonus action.
 
 _**Stop Hitting Yourself.**_ The pair of gloves attempts to slap or punch the creature wearing them. The creature must succeed on a DC 14 Dexterity saving throw or take bludgeoning damage equal to the creature's own unarmed strike (minimum 1).
+
+---
+
+| ⬅️ [October 11th: Beast](october-11-beast.md) | [October 13th: B-Movie Monster](october-13-b-movie-monster.md) ➡️ |
+|:-|-:|
