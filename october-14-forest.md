@@ -281,3 +281,8 @@ _Murexian Ray._ The targeted creature must make a DC 18 Constitution Saving Thro
 The beholder can take 3 Legendary Actions, using the Eye Ray option below. They can take only one Legendary Action at a time and only at the end of another creature's turn. The beholder regains spent Legendary Actions at the start of their turn.
 
 **Eye Ray.** The beholder uses one random eye ray.
+
+---
+
+| ⬅️ [October 13th: B-Movie Monster](october-13-b-movie-monster.md) | [October 15th: Undead](october-15-undead.md) ➡️ |
+|:-|-:|
