@@ -1,4 +1,4 @@
-# October 3rd (Challenge 2)
+# October 3rd, 2021 (Challenge 2)
 
 Prompt: **Misunderstood Monster**
 
@@ -36,7 +36,7 @@ _Medium humanoid (any species, shapechanger)_
 - **Languages** Common (can't speak in chimp form)
 - **Challenge** 2 (450 XP) **Proficiency Bonus** +2
 
-#### Special Traits
+#### Special traits
 
 _**Pack Tactics.**_ The werechimp has advantage on attack rolls against a creature if at least one of the werechimp's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
@@ -54,5 +54,5 @@ _**Change Shape.**_ The werechimp polymorphs into a chimp–humanoid hybrid or i
 
 ---
 
-| ⬅️ [October 2nd: Capitalism](october-02-capitalism.md) | [October 4th: Spoopy](october-04-spoopy.md) ➡️ |
+| ⬅️ [October 2nd: Capitalism](2021-10-02-capitalism.md) | [October 4th: Spoopy](2021-10-04-spoopy.md) ➡️ |
 |:-|-:|

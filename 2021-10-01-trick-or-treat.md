@@ -1,4 +1,4 @@
-# October 1st (Challenge 0)
+# October 1st, 2021 (Challenge 0)
 
 Prompt: **Trick-or-Treat**
 
@@ -34,7 +34,7 @@ _Tiny construct, same alignment as its creator_
 - **Languages** understands the languages of its creator but cannot speak
 - **Challenge** 0 (10 XP) **Proficiency Bonus** +2
 
-#### Special Traits
+#### Special traits
 
 _**Antimagic Susceptibility.**_ The trickered treat is incapacitated while in the area of an _antimagic field_. If targeted by _dispel magic_, the treat must succeed on a Constitution Saving Throw against the caster's Spell Save DC or fall Unconscious for 1 minute.
 
@@ -70,7 +70,7 @@ _Medium swarm of Tiny constructs, same alignment as its creator_
 - **Languages** understands the languages of its creator but cannot speak
 - **Challenge** ¼ (50 XP) **Proficiency Bonus** +2
 
-#### Special Traits
+#### Special traits
 
 _**Antimagic Susceptibility.**_ The swarm is incapacitated while in the area of an _antimagic field_. If targeted by _dispel magic_, the swarm must succeed on a Constitution Saving Throw against the caster's Spell Save DC or fall Unconscious for 1 minute.
 
@@ -84,5 +84,5 @@ _**Cavities.**_ _Melee Weapon Attack:_ +4 to hit, reach 0 ft., one target in the
 
 ---
 
-| [October 2nd: Capitalism](october-02-capitalism.md) ➡️ |
+| [October 2nd: Capitalism](2021-10-02-capitalism.md) ➡️ |
 |-:|

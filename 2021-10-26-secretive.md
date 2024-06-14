@@ -1,4 +1,4 @@
-# October 26th (Challenge 25)
+# October 26th, 2021 (Challenge 25)
 
 Prompt: **Secretive**
 
@@ -45,7 +45,7 @@ _Large fey (archfey), chaotic neutral_
 - **Languages** Druidic, Sylvan, telepathy 120 ft.
 - **Challenge** 25 (75,000 XP) **Proficiency Bonus** +8
 
-#### Special Traits
+#### Special traits
 
 _**Innate Spellcasting.**_ Phygius' innate spellcasting ability is Charisma (Spell Save DC 24). It can innately cast the following spells, requiring no components:
 
@@ -91,5 +91,5 @@ Phygius can take 3 Legendary Actions, choosing from the options below. Only one 
 
 ---
 
-| ⬅️ [October 25th: Abomination](october-25-abomination.md) | [October 27th: Mythology](october-27-mythology.md) ➡️ |
+| ⬅️ [October 25th: Abomination](2021-10-25-abomination.md) | [October 27th: Mythology](2021-10-27-mythology.md) ➡️ |
 |:-|-:|
