@@ -4,7 +4,7 @@ Prompt: **Trick-or-Treat**
 
 ### [Trickered Treat](https://github.com/mpanighetti/dnd5e-monsters/blob/main/constructs/trickered-treat.md)
 
-#### Lore
+#### Description
 
 A creation of hags tired of Feywild children demanding sweets at all hours of the night, trickered treats are animated candies designed to look as inviting and appetizing as possible, so that they might tempt would-be victims into having a taste. Such temptations are short-lived, as the candies will immediately assail anyone interacting with them, taking careful aim at the creature's mouth and pummeling their teeth until they retreat. The treats are theoretically edible, but are coated with a putrefying concoction that will cause the most steel-hearted consumer's stomach to lurch violently.
 
@@ -48,7 +48,7 @@ _**Cavity.**_ _Melee Weapon Attack:_ +3 to hit, reach 0 ft., one target in the t
 
 ### [Swarm of Trickered Treats](https://github.com/mpanighetti/dnd5e-monsters/blob/main/constructs/trickered-treat.md#swarm-of-trickered-treats)
 
-#### Lore
+#### Description
 
 The more children a hag has wandering their premises looking for handouts, the bigger the candy pile needed to get rid of them.
 

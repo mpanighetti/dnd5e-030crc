@@ -4,7 +4,7 @@ Prompt: **Misunderstood Monster**
 
 ### [Werechimp](https://github.com/mpanighetti/dnd5e-monsters/blob/main/humanoids/werechimp.md)
 
-#### Lore
+#### Description
 
 Perhaps the least studied of lycanthropes, troganthropes tend to form tight-knit bands far away from human settlements to avoid persecution. Their societies are often found in dense jungles or tropical islands to help maintain their distance from society, and their interactions with humans are rare, often limited to the occasional wandering explorer or unfortunate shipwreck.
 
