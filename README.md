@@ -92,6 +92,10 @@ All included artwork has been commissioned specifically for this project, and al
 
 ## Third-Party Content References
 
+_Monster Manual_ © 2014 Wizards of the Coast LLC.
+
 _[Systems Reference Document 5.1](https://dnd.wizards.com/resources/systems-reference-document)_ ("SRD 5.1") © 2016 Wizards of the Coast LLC. Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).
+
+_Volo's Guide to Monsters_ © 2016 Wizards of the Coast LLC.
 
 _Baldur's Gate: Descent into Avernus_ © 2019 Wizards of the Coast LLC.
