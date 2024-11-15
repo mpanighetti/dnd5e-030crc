@@ -12,6 +12,11 @@ A false shadow is an amorphous being drawn toward vibrations in the cosmic strin
 
 While not obscured by darkness or impersonating shadows, a false shadow looks like a normal shadow, but in a shifting form and detached from any object that might be casting such a shape. It thus makes all efforts to avoid this discernible state, jumping out of the light while it seeks out its targets.
 
+<figure>
+  <img src="artwork/false-shadow-robogyaru.png" alt="Drawing of the false shadow, depicting a frightened figure in a cloak casting a shadow with an evil eye, which doesn’t seem to match the figure's shape or position." />
+  <figcaption>False Shadow by <a href="https://twitter.com/robogyaru">robogyaru</a></figcaption>
+</figure>
+
 #### Attributes
 
 _Medium Aberration, Lawful Evil_
