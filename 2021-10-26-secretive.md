@@ -2,7 +2,7 @@
 
 Prompt: **Secretive**
 
-### [Phygius](https://github.com/mpanighetti/dnd5e-monsters/blob/main/fey/phygius.md)
+### Phygius
 
 #### Description
 

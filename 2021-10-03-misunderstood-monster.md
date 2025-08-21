@@ -2,7 +2,7 @@
 
 Prompt: **Misunderstood Monster**
 
-### [Werechimp](https://github.com/mpanighetti/dnd5e-monsters/blob/main/humanoids/werechimp.md)
+### Werechimp
 
 #### Description
 

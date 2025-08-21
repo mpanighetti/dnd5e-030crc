@@ -2,7 +2,7 @@
 
 Prompt: **Psychopomp**
 
-### [False Shadow](https://github.com/mpanighetti/dnd5e-monsters/blob/main/aberrations/false-shadow.md)
+### False Shadow
 
 #### Description
 

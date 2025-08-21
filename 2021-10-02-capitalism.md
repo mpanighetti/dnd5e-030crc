@@ -2,7 +2,7 @@
 
 Prompt: **Capitalism**
 
-### [Avatar of Debt](https://github.com/mpanighetti/dnd5e-monsters/blob/main/undead/avatar-of-debt.md)
+### Avatar of Debt
 
 #### Description
 

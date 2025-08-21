@@ -2,7 +2,7 @@
 
 Prompt: **Trick-or-Treat**
 
-### [Trickered Treat](https://github.com/mpanighetti/dnd5e-monsters/blob/main/constructs/trickered-treat.md)
+### Trickered Treat
 
 #### Description
 
@@ -46,7 +46,7 @@ _**Fun Size.**_ The trickered treat can occupy another creature's space and vice
 
 _**Cavity.**_ _Melee Weapon Attack:_ +3 to hit, reach 0 ft., one target in the trickered treat's space. _Hit:_ 1 Bludgeoning damage, and if the target is a creature that has teeth, they must succeed on a DC 11 Constitution Saving Throw or take 2 (1d4) Poison damage.
 
-### [Swarm of Trickered Treats](https://github.com/mpanighetti/dnd5e-monsters/blob/main/constructs/trickered-treat.md#swarm-of-trickered-treats)
+### Swarm of Trickered Treats
 
 #### Description
 
